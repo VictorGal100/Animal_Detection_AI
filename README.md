@@ -22,7 +22,7 @@ python scripts\select_coco_animals.py --coco_root data\coco2017 --out docs\sampl
 # Run YOLOv8 on samples
 python src\predict.py --src docs\samples --model yolov8s.pt --conf 0.20 --imgsz 640
 
-##trail 2
+## trail 2
 # Windows PowerShell
 cd "C:\Users\alexg\Downloads\10-5-main (1)\10-5-main\Animal_Detection_AI"
 
