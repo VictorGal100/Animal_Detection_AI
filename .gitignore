@@ -186,3 +186,9 @@ models/*
 docs/demos/*
 *.mp4
 *.avi
+
+# project extras
+*.pt
+runs/
+data/coco2017/
+
