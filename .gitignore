@@ -209,3 +209,9 @@ experiments/tf_mobilenetv2/Img/
 *.keras
 __pycache__/
 
+
+experiments/tf_mobilenetv2/*.tflite
+
+
+experiments/tf_mobilenetv2/*.tflite
+
