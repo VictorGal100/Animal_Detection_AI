@@ -215,3 +215,6 @@ experiments/tf_mobilenetv2/*.tflite
 
 experiments/tf_mobilenetv2/*.tflite
 
+
+experiments/tf_mobilenetv2/_sm_tmp*/
+
