@@ -199,3 +199,13 @@ data/coco2017/
 /runs/
 /data/coco2017/
 
+
+# TF binary model
+*.keras
+__pycache__/
+
+
+experiments/tf_mobilenetv2/Img/
+*.keras
+__pycache__/
+
