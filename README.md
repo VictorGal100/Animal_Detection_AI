@@ -108,4 +108,4 @@ included under docs/samples/ for reproducible demos.
 7. Presentation video
 The final presentation (slides + demo) will be available at:
 
-(Link to YouTube or Google Drive will be added here once the video is uploaded.)
+(Link=https://www.youtube.com/watch?v=Y5uiCoo9Yxw)
