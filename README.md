@@ -109,3 +109,6 @@ included under docs/samples/ for reproducible demos.
 The final presentation (slides + demo) will be available at:
 
 (Link=https://www.youtube.com/watch?v=Y5uiCoo9Yxw)
+
+8 . PPT
+https://fau-my.sharepoint.com/:p:/g/personal/agarcia12022_fau_edu/EWWII3HVBWVHqHPcOhSwExAB3rr1aiqq_CvhV4du7nGsig?e=f2260q
